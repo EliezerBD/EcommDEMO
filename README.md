@@ -1,8 +1,8 @@
 # EcommDEMO 🛒
 
-Hola, este es un pequeño demo de un backend para e-commerce que estoy construyendo. La idea es tener un catálogo de productos funcional. 
+Hola, este es un pequeño demo de un backend para e-commerce que estoy construyendo. La idea es tener un catálogo de productos funcional.
 
-Lo subí para tener un respaldo y poder mostrar lo que llevo avanzado.
+Lo subí para tener un respaldo y, principalmente, para **aprender un poco más sobre microservicios**, ya que he visto que es una arquitectura súper popular hoy en día y quiero entenderle mejor.
 
 ## 🛠️ Qué tecnologías usé
 - **Java 17** con **Spring Boot**: Para toda la lógica del backend.
