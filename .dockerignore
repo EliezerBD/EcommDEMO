@@ -1,0 +1,42 @@
+# Archivos y directorios a ignorar en el build de Docker
+# (Optimiza el tiempo de build y reduce el tamaño de la imagen)
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Git
+.git/
+.gitignore
+
+# Documentación y archivos de desarrollo
+README.md
+*.md
+docs/
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de build anteriores
+*.jar
+*.war
+
+# Node modules (si usas frontend)
+node_modules/
